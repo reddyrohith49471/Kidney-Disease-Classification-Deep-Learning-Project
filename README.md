@@ -1,1 +1,1 @@
-# DocShield-AI
+# Kidney-Disease-Classification-Deep-Learning-Project
